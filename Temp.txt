@@ -1,0 +1,12 @@
+Fahrenheit:140.0
+kelvin:333.15
+user_input:f
+========================
+Fahrenheit:122.0
+kelvin:323.15
+user_input:k
+========================
+Fahrenheit:104.0
+kelvin:313.15
+user_input:f
+========================
